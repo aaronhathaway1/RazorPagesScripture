@@ -1,0 +1,7 @@
+﻿/*Font*/
+@import url('https://fonts.googleapis.com/css2?family=Estonia&display=swap');
+
+* {
+    font-family: 'Estonia', cursive;
+    font-size: 1.75rem;
+}
